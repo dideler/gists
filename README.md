@@ -16,3 +16,10 @@ This repo aims to make supporting them easier.
 **Deprecated** gists are no longer supported.
 
 [open an issue]: ../../issues/new
+
+---
+
+- [Bootstrapping - a list of useful resources to get up and running quickly](https://gist.github.com/dideler/1718200) (deprecated)
+- [Twitter gadget for Google Sites](https://gist.github.com/dideler/2153825) (deprecated)
+- [Bitwise operations](https://gist.github.com/dideler/2365607) (deprecated)
+- [Parsing Command-Line Argument in Python](https://gist.github.com/dideler/2395703) (deprecated)
