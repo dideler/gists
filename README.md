@@ -2,7 +2,7 @@
 
 A collection of some of [my GitHub Gists](https://gist.github.com/dideler?direction=desc&sort=updated).
 
-## Why? 
+## Why?
 
 I've got a bunch of gists. Some of them get noticed.
 People comment on them, but because they're on a separate platform, I
@@ -13,7 +13,9 @@ This repo aims to make supporting them easier.
 - Got an improvement to suggest for a specific gist? [Open an issue] in this repo
 - Got a question about a specific gist? [Open an issue] in this repo
 
-**Deprecated** gists are no longer supported.
+**Deprecated** gists are no longer supported. Their content may be outdated.
+
+All gists are distributed under the MIT license.
 
 [open an issue]: ../../issues/new
 
