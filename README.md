@@ -4,14 +4,16 @@ A collection of some of [my GitHub Gists](https://gist.github.com/dideler?direct
 
 ## Why?
 
-I've got a bunch of gists. Some of them get noticed.
-People comment on them, but because they're on a separate platform, I
-do not receive notifications and support becomes difficult.
-This repo aims to make supporting them easier. **Support is not guaranteed**, this is volunteer work.
+I've got a bunch of gists. This list makes the good ones more discoverable.  
+It also improves support as I otherwise don't get notified of activity on gists.
 
-- Got a statement to make or just want to say thanks? Leave a comment on the relevant gist
+## How?
+
 - Got an improvement to suggest for a specific gist? [Open an issue] in this repo
 - Got a question about a specific gist? [Open an issue] in this repo
+- Got a statement to make or just want to say thanks? Leave a comment on the relevant gist
+
+**Support is not guaranteed**, this is volunteer work.
 
 **Deprecated** gists are no longer supported. Their content may be outdated.
 
