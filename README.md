@@ -51,3 +51,8 @@ All gists are distributed under the MIT license.
 - [Reallly good job postings](https://gist.github.com/dideler/10392759)
 - [Responsive email templates](https://gist.github.com/dideler/11400235)
 - [Screenshots of web pages at various sizes](https://gist.github.com/dideler/814ff4d03a0e12e94dcd)
+- [Upgrade PostgreSQL from 9.3 to 9.4 on Ubuntu 14.10](https://gist.github.com/dideler/60c9ce184198666e5ab4)
+- [Show unused vcr cassettes at the end of your (RSpec) test suite run](https://gist.github.com/dideler/062a6d6722e137db55b2)
+- [Rails API Best Practices](https://gist.github.com/dideler/58041566028ac0f23921)
+- [IRC Getting Started Guide: common commands](https://gist.github.com/dideler/c6e491a7c36cf0e07c03)
+- [CLI loading animation (bash)](https://gist.github.com/dideler/b0a0ef8b95e683752883)
