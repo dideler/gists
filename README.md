@@ -56,3 +56,4 @@ All gists are distributed under the MIT license.
 - [Rails API Best Practices](https://gist.github.com/dideler/58041566028ac0f23921)
 - [IRC Getting Started Guide: common commands](https://gist.github.com/dideler/c6e491a7c36cf0e07c03)
 - [CLI loading animation (bash)](https://gist.github.com/dideler/b0a0ef8b95e683752883)
+- [Directed Acyclic Graph for tasks (Ruby)](https://gist.github.com/dideler/07c353deb8071646a39c09de6d96afe7)
